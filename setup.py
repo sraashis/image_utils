@@ -8,11 +8,11 @@ setup(name='imgcommons',
       author='Aashis Khanal',
       author_email='sraahis@gmail.com',
       license='MIT',
-      packages=['img_utils'],
+      packages=['imgcommons'],
       install_requires=['numpy', 'PILLOW', 'scipy', 'opencv-python'],
       classifiers=[
           "Programming Language :: Python :: 3",
           'License :: OSI Approved :: MIT License',
           "Operating System :: OS Independent",
       ],
-      zip_safe=False)
+      zip_safe=True)
