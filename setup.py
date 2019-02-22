@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(name='imgcommons',
-      version='0.3',
+      version='0.31',
       description='Simple but very useful image related utilities',
       url='https://github.com/sraashis/image_utils',
-      download_url='https://github.com/sraashis/image_utils/releases/tag/0.1',
+      download_url='https://github.com/sraashis/imgcommons/releases/tag/Working',
       author='Aashis Khanal',
       author_email='sraahis@gmail.com',
       license='MIT',
