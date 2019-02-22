@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='imgcommons',
-      version='0.31',
+      version='0.33',
       description='Simple but very useful image related utilities',
       url='https://github.com/sraashis/image_utils',
       download_url='https://github.com/sraashis/imgcommons/releases/tag/Working',
