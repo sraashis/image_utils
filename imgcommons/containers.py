@@ -68,5 +68,5 @@ class Image:
         copy_obj.working_arr = copy.copy(self.working_arr)
         copy_obj.mask = copy.copy(self.mask)
         copy_obj.ground_truth = copy.copy(self.ground_truth)
-        copy_obj.res = copy.deepcopy(self.extra)
+        copy_obj.extra = copy.deepcopy(self.extra)
         return copy_obj
